@@ -1,0 +1,55 @@
+.footer-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 120px;
+  padding-right: 220px;
+  padding-top: 18px;
+}
+.aboutus {
+  font: normal normal medium 18px/24px Avenir;
+  letter-spacing: 0.18px;
+  color: #182838;
+  text-transform: uppercase;
+  opacity: 1;
+}
+.f1 {
+  font: normal normal medium 16px/24px Avenir;
+  letter-spacing: 0.16px;
+  color: #182838;
+  text-transform: capitalize;
+  opacity: 1;
+}
+.f2 {
+  font: normal normal normal 14px/24px Avenir;
+  letter-spacing: 0.14px;
+  color: #182838;
+  text-transform: capitalize;
+  opacity: 1;
+}
+.social {
+  font: normal normal medium 18px/24px Avenir;
+  letter-spacing: 0.18px;
+  color: #182838;
+  text-transform: uppercase;
+  opacity: 1;
+}
+.media {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  opacity: 0.6;
+}
+.copyright {
+  text-align: center;
+  font: normal normal normal 12px/24px Avenir;
+  letter-spacing: 0.12px;
+  color: #ffffff;
+  opacity: 1;
+  padding-top: 10px;
+}
+.copy {
+  background: #182838 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  opacity: 1;
+}

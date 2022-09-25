@@ -1,0 +1,134 @@
+/* .navbar {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 2px 48px #0000000f;
+  height: 80px;
+}
+
+.navleft {
+  margin-left: 2em;
+  font: normal normal 900 20px/27px Avenir;
+  letter-spacing: 1.8px;
+  color: #5861ae;
+  text-transform: uppercase;
+}
+.profileimagec {
+  margin-top: 0.5em;
+} */
+/* 
+.profileimage {
+  top: 19px;
+  left: 1249px;
+  margin-top: 0.5em;
+  border-radius: 50%;
+  width: 33px;
+  height: 33px;
+  margin-right: 0.5em;
+  background-color: aqua;
+  background-image: url("../images/profilepic.jpg");
+} */
+
+/* .navright {
+  display: flex;
+  flex-direction: row;
+}
+
+.pricecareer {
+  display: flex;
+  flex-direction: row;
+  margin-top: 2em;
+  font: normal normal normal 14px/19px Avenir;
+  letter-spacing: 1.05px;
+  color: #565657;
+  gap: 4em;
+}
+
+.imagenusername {
+  height: 80px;
+  margin-left: 1em;
+  padding: 0.5em 1em;
+  color: white;
+  background-color: #5861ae;
+  display: flex;
+  flex-direction: row;
+}
+
+.profileuser {
+  text-align: center;
+  margin-top: 1.5em;
+  font: normal normal normal 14px/19px Avenir;
+  letter-spacing: 1.2px;
+  color: #ffffff;
+  text-transform: capitalize;
+} */
+
+.header{
+  border: 1px solid lightgray;
+  display: flex;
+  height: 8.5vh;
+  box-sizing: border-box;
+}
+.header-right {
+  list-style-type: none;
+  flex: 1;
+}
+/* ui:first-child{ */.header-left{
+  display: flex;
+  align-items: center;
+}
+.header-right{
+  display: flex;
+  justify-content: flex-end;
+  /* align-content: center; */
+  align-items: center;
+}
+.header-left > li{
+  border: 0ch;
+  color: #5861AE;
+}
+.header-nav{
+  padding-left: 3vw;
+  padding-right: 3vw;
+  height: 8.5vh;
+  display: flex;
+  align-items: center;
+  border-left: 1px solid lightgray;
+  text-transform: capitalize;
+}
+.light-text{
+  color: #565657;
+  opacity: 1;
+}
+.li{
+  background-color: #5861AE;
+  height: 8.5vh;
+  display: flex;
+  align-items: center;
+  padding-left: 1vw;
+  padding-right: 2.5vw;
+  color: white;
+  font-size: 1vw;
+  width: 13vw;
+}
+.li > span{
+  border-radius: 50%;
+  padding-right: 1vw;
+  width: 3vw;
+}
+span > img{
+  width: 2.5vw;
+}
+.logout-option{
+  background-color: #5861AE;
+  color: white;
+  border: 0px;
+}
+.logout{
+  padding-left: 2vw;
+}
+.logout > button{
+  height: 7.5vh;
+  border: 0;
+  padding: 0 6px;
+  background-color: #5861AE;
+  color: white;
+}

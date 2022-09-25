@@ -1,0 +1,107 @@
+.gorderPrvSummary {
+  overflow: auto;
+  color: blue;
+  /* background-color: rgb(77, 77, 212); */
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  width: 850px;
+  max-height: 100%;
+  /* min-height:933px ; */
+  /* height: ; */
+  background: #ffffff 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.gHeader1Osum {
+  background-color: #5861ae;
+  color: white;
+  padding: 0.5em 1em;
+}
+
+.gbuttonOsumcloseCont {
+  float: right;
+}
+.gbuttonOsumclose {
+  border: none;
+}
+
+.goderSummaryheader2 {
+  text-align: center;
+  padding: 1em;
+  background-color: #f4f9ff;
+}
+
+.gorderSummaryHeader3 {
+  padding: 1em;
+}
+
+.gordersumTable {
+  padding: 1em 2em;
+}
+
+.GeditedRow {
+  background-color: #5861ae;
+  color: white;
+}
+.GprevsumaddressCont {
+  display: flex;
+  gap: 2em;
+}
+.Gprevsumaddressmain {
+  color: #3e3f40;
+  width: 236px;
+  font: normal normal normal 16px/22px Open Sans;
+  letter-spacing: 0.16px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  border: 1px solid #0c86dd;
+  border-radius: 4px;
+  margin-top: 1em;
+  padding-left: 0.5em;
+  padding-right: 0.3em;
+  padding-bottom: 0.3em;
+}
+.Gprevsumaddress {
+  color: #3e3f40;
+  width: 236px;
+  font: normal normal normal 16px/22px Open Sans;
+  letter-spacing: 0.16px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  border: 1px solid #48484f;
+  border-radius: 4px;
+  margin-top: 1em;
+  padding-left: 0.5em;
+}
+.homeclassse {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.tickimage {
+  /* display: inline-block; */
+  float: right;
+  width: 1em;
+  height: 1em;
+}
+.GaddNewAddress {
+  margin-top: 2em;
+  padding-left: 0.5em;
+  color: #5861ae;
+}
+
+.GoviConfirmButton {
+  margin-top: 3em;
+  background-color: #f4f4f4;
+  color: white;
+  text-align: right;
+  padding: 1em 2em;
+}
+.GbuttonforOrder {
+  background-color: #5861ae;
+  color: white;
+  padding: 0.2em 1em;
+  border-radius: 0.2em;
+  border: none;
+}

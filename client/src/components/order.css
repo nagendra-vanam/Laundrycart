@@ -1,0 +1,9 @@
+.ordergridContainer {
+  min-height: 83vh;
+  background-color: aqua;
+  display: grid;
+  grid-template-columns: 40px auto;
+}
+.verticalnav {
+  background-color: #5861ae;
+}

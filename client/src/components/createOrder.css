@@ -1,0 +1,356 @@
+.searchBox1 {
+  padding: 1em 3em;
+}
+.nameoftitle {
+  float: left;
+  /* margin-left: 115px; */
+  /* width: 162px; */
+  /* height: 27px; */
+  font: normal normal 600 16px/48px Open Sans;
+  letter-spacing: 0px;
+  color: #1e2022;
+  opacity: 1;
+  padding-right: 60vw;
+}
+
+.searchEngine {
+  width: 200px;
+  height: 21px;
+  float: right;
+}
+
+.title {
+  display: flex;
+  color: white;
+  background-color: #2f2f2f;
+  margin-top: 4%;
+}
+
+.headerName {
+  font-size: 12px;
+  margin-right: 20%;
+}
+
+.shirt1 {
+  position: fixed;
+  top: 197px;
+  width: 35px;
+  height: 35px;
+  background: transparent 0% 0% no-repeat padding-box;
+  border-radius: 2px;
+  opacity: 1;
+}
+.productname1 {
+  position: fixed;
+  top: 180px;
+  width: 42px;
+  height: 19px;
+  padding-left: 38px;
+  font: normal normal 600 14px/48px Open Sans;
+  letter-spacing: 0px;
+  color: #1d2022;
+  opacity: 1;
+}
+
+.productPhara1 {
+  position: fixed;
+  top: 200px;
+  /* width: 42px; */
+  padding-left: 38px;
+  height: 19px;
+  font: normal normal normal 10px/48px Open Sans;
+  letter-spacing: 0px;
+  color: #76788b;
+  opacity: 1;
+}
+
+.qunatity {
+  width: 4em;
+  padding-left: 2px;
+  margin-left: 25%;
+  margin-top: 1.2%;
+  border: 1px solid #5861ae;
+  border-radius: 5px;
+  outline: none;
+  box-shadow: 0 0 0 2px #5861ae;
+}
+.icon {
+  margin-left: 60px;
+}
+
+#icon1 {
+  padding-left: 50px;
+}
+
+.tshirt {
+  position: fixed;
+  top: 245px;
+  width: 35px;
+  height: auto;
+  background: transparent 0% 0% no-repeat padding-box;
+  border-radius: 2px;
+  opacity: 1;
+}
+.productname2 {
+  position: fixed;
+  top: 235px;
+  padding-left: 38px;
+  width: 64px;
+  height: 19px;
+  text-align: left;
+  font: normal normal 600 14px/48px Open Sans;
+  letter-spacing: 0px;
+  color: #1d2022;
+  opacity: 1;
+}
+.productPhara2 {
+  position: fixed;
+  top: 252px;
+  padding-left: 38px;
+  height: 19px;
+  font: normal normal normal 10px/48px Open Sans;
+  letter-spacing: 0px;
+  color: #76788b;
+  opacity: 1;
+}
+
+.Trousers {
+  position: fixed;
+  top: 290px;
+  width: 35px;
+  height: auto;
+  background: transparent 0% 0% no-repeat padding-box;
+  border-radius: 2px;
+  opacity: 1;
+}
+
+.productname3 {
+  position: fixed;
+  top: 270px;
+  padding-left: 38px;
+  width: 64px;
+  height: 19px;
+  text-align: left;
+  font: normal normal 600 14px/48px Open Sans;
+  letter-spacing: 0px;
+  color: #1d2022;
+  opacity: 1;
+}
+
+.productPhara3 {
+  position: fixed;
+  top: 288px;
+  padding-left: 38px;
+  height: 19px;
+  font: normal normal normal 10px/48px Open Sans;
+  letter-spacing: 0px;
+  color: #76788b;
+  opacity: 1;
+}
+
+.jeans {
+  position: fixed;
+  width: 35px;
+  height: auto;
+  background: transparent 0% 0% no-repeat padding-box;
+  border-radius: 2px;
+  opacity: 1;
+  top: 338px;
+}
+
+.productname4 {
+  position: fixed;
+  padding-left: 38px;
+  top: 320px;
+  width: 64px;
+  height: 19px;
+  text-align: left;
+  font: normal normal 600 14px/48px Open Sans;
+  letter-spacing: 0px;
+  color: #1d2022;
+  opacity: 1;
+}
+
+.productPhara4 {
+  position: fixed;
+  top: 337px;
+  padding-left: 38px;
+  height: 19px;
+  font: normal normal normal 10px/48px Open Sans;
+  letter-spacing: 0px;
+  color: #76788b;
+  opacity: 1;
+}
+
+.Boxers {
+  position: fixed;
+  width: 35px;
+
+  height: auto;
+  background: transparent 0% 0% no-repeat padding-box;
+  border-radius: 2px;
+  opacity: 1;
+  top: 382px;
+}
+
+.productname5 {
+  position: fixed;
+  padding-left: 38px;
+  top: 360px;
+  width: 64px;
+  height: 19px;
+  text-align: left;
+  font: normal normal 600 14px/48px Open Sans;
+  letter-spacing: 0px;
+  color: #1d2022;
+  opacity: 1;
+}
+
+.productPhara5 {
+  position: fixed;
+  top: 375px;
+  padding-left: 38px;
+  height: 19px;
+  font: normal normal normal 10px/48px Open Sans;
+  letter-spacing: 0px;
+  color: #76788b;
+  opacity: 1;
+}
+
+.joggers {
+  position: fixed;
+  width: 35px;
+  height: auto;
+  background: transparent 0% 0% no-repeat padding-box;
+  border-radius: 2px;
+  opacity: 1;
+  top: 425px;
+}
+
+.productname6 {
+  position: fixed;
+  padding-left: 38px;
+  top: 405px;
+  width: 64px;
+  height: 19px;
+  text-align: left;
+  font: normal normal 600 14px/48px Open Sans;
+  letter-spacing: 0px;
+  color: #1d2022;
+  opacity: 1;
+}
+.productPhara6 {
+  position: fixed;
+  top: 422px;
+  padding-left: 38px;
+  height: 19px;
+  font: normal normal normal 10px/48px Open Sans;
+  letter-spacing: 0px;
+  color: #76788b;
+  opacity: 1;
+}
+
+.otherImg {
+  position: fixed;
+  width: 35px;
+  height: auto;
+  background: transparent 0% 0% no-repeat padding-box;
+  border-radius: 2px;
+  opacity: 1;
+  top: 465px;
+}
+
+.productname7 {
+  position: fixed;
+  padding-left: 38px;
+  top: 450px;
+  width: 64px;
+  height: 19px;
+  text-align: left;
+  font: normal normal 600 14px/48px Open Sans;
+  letter-spacing: 0px;
+  color: #1d2022;
+  opacity: 1;
+}
+
+.productPhara7 {
+  position: fixed;
+  top: 468px;
+  padding-left: 38px;
+  height: 19px;
+  font: normal normal normal 10px/48px Open Sans;
+  letter-spacing: 0px;
+  color: #76788b;
+  opacity: 1;
+}
+div.btnScetion {
+  text-align: right;
+  margin-right: 5%;
+  padding-bottom: 2em;
+}
+.button2 {
+  background-color: #5861ae;
+  color: white;
+  opacity: 1;
+}
+
+.button1 {
+  color: #5861ae;
+  border: 2px solid #5861ae;
+  margin-right: 2%;
+}
+
+.calculator1 {
+  /* margin-right: 6%; */
+  padding-left: 100px;
+}
+
+.dash1 {
+  padding-left: 12%;
+}
+
+.reset1 {
+  position: fixed;
+  margin-top: 1%;
+  border: 1px solid #5861ae;
+  border-radius: 5px;
+  margin-left: 50px;
+  font: normal normal Open Sans;
+  color: #5861ae;
+  opacity: 1;
+}
+
+.GsucessSummary1 {
+  overflow-x: scroll;
+  overflow-y: scroll;
+}
+
+.ccc {
+  width: 93vw;
+  padding-top: 2em;
+  padding-left: 3em;
+}
+
+.Cimage {
+  width: 35px;
+  height: 35px;
+}
+.CimageConatiner {
+  display: flex;
+  gap: 0.9em;
+  flex-direction: row;
+}
+
+.CnameOf {
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  /* float: left; */
+  line-height: 0.1em;
+  font-size: small;
+}
+.ressst {
+  border: 1px solid #5861ae;
+  /* padding: 0.1em 1em; */
+  color: #5861ae;
+}

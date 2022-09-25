@@ -1,0 +1,3 @@
+create a git repo --- done
+create client folder and install react app -- done
+create server folder and install express -- 

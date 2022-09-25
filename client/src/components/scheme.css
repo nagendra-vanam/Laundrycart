@@ -1,0 +1,19 @@
+.scheme {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.refer {
+  font: normal normal 600 24px/26px Open Sans;
+  letter-spacing: 0.96px;
+  color: #5861ae;
+  opacity: 1;
+  margin-top: 6px;
+}
+.condition {
+  text-align: left;
+  font: italic normal normal 10px/26px Open Sans;
+  letter-spacing: 0.4px;
+  color: #3d3d43;
+  opacity: 1;
+}

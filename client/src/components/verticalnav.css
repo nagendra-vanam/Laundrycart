@@ -1,0 +1,15 @@
+.vnav {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding-top: 2em;
+  gap: 2em;
+}
+.vnavicon {
+  width: 22px;
+  height: 22px;
+}
+.vnaviconlist {
+  padding: 0.3em 0;
+  background-color: white;
+}
